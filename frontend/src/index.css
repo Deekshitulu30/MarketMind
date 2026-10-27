@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #0B0F17;
+  color: #F3F4F6;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar for dense analytical tables and dashboards */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B0F17;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1F2937;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #374151;
+}
+
+@layer components {
+  .card-surface {
+    @apply bg-[#111827] border border-white/5 rounded-xl shadow-lg;
+  }
+  
+  .card-surface-hover {
+    @apply bg-[#111827] border border-white/5 rounded-xl shadow-lg transition-all duration-200 hover:border-blue-500/30 hover:bg-[#131C2E];
+  }
+
+  .stat-label {
+    @apply text-xs font-medium text-slate-400 uppercase tracking-wider;
+  }
+
+  .stat-value {
+    @apply font-mono text-lg font-semibold text-slate-100;
+  }
+  
+  .badge-up {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-mono;
+  }
+
+  .badge-down {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-rose-500/10 text-rose-400 border border-rose-500/20 font-mono;
+  }
+
+  .badge-neutral {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-500/10 text-slate-300 border border-slate-500/20 font-mono;
+  }
+}

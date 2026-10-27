@@ -1,0 +1,68 @@
+SYMBOL,NAME OF COMPANY,SERIES,DATE OF LISTING,PAID UP VALUE,MARKET LOT,ISIN NUMBER,FACE VALUE,SECTOR
+RELIANCE,Reliance Industries Limited,EQ,01-JAN-2000,10,1,INE002A01018,10,Energy & Petrochemicals
+TCS,Tata Consultancy Services Limited,EQ,01-JAN-2000,10,1,INE467B01029,10,IT Services & Consulting
+HDFCBANK,HDFC Bank Limited,EQ,01-JAN-2000,10,1,INE040A01034,10,Banking & Financial Services
+INFY,Infosys Limited,EQ,01-JAN-2000,10,1,INE009A01021,10,IT Services & Consulting
+ICICIBANK,ICICI Bank Limited,EQ,01-JAN-2000,10,1,INE090A01021,10,Banking & Financial Services
+HINDUNILVR,Hindustan Unilever Limited,EQ,01-JAN-2000,10,1,INE030A01027,10,Consumer Goods (FMCG)
+ITC,ITC Limited,EQ,01-JAN-2000,10,1,INE154A01025,10,Consumer Goods (FMCG)
+SBIN,State Bank of India,EQ,01-JAN-2000,10,1,INE062A01020,10,Public Sector Banking
+BHARTIARTL,Bharti Airtel Limited,EQ,01-JAN-2000,10,1,INE397D01024,10,Telecommunications
+KOTAKBANK,Kotak Mahindra Bank Limited,EQ,01-JAN-2000,10,1,INE237A01028,10,Banking & Financial Services
+LT,Larsen & Toubro Limited,EQ,01-JAN-2000,10,1,INE018A01030,10,Engineering & Infrastructure
+AXISBANK,Axis Bank Limited,EQ,01-JAN-2000,10,1,INE238A01034,10,Banking & Financial Services
+BAJFINANCE,Bajaj Finance Limited,EQ,01-JAN-2000,10,1,INE296A01024,10,Non-Banking Financial (NBFC)
+MARUTI,Maruti Suzuki India Limited,EQ,01-JAN-2000,10,1,INE585B01010,10,Automobiles
+TATAMOTORS,Tata Motors Limited,EQ,01-JAN-2000,10,1,INE155A01022,10,Automobiles
+SUNPHARMA,Sun Pharmaceutical Industries Limited,EQ,01-JAN-2000,10,1,INE044A01036,10,Pharmaceuticals & Healthcare
+TITAN,Titan Company Limited,EQ,01-JAN-2000,10,1,INE280A01028,10,Consumer Durables & Retail
+ULTRACEMCO,UltraTech Cement Limited,EQ,01-JAN-2000,10,1,INE481G01011,10,Materials & Cement
+WIPRO,Wipro Limited,EQ,01-JAN-2000,10,1,INE075A01022,10,IT Services & Consulting
+NTPC,NTPC Limited,EQ,01-JAN-2000,10,1,INE733E01010,10,Power Generation & Utilities
+ONGC,Oil & Natural Gas Corporation Limited,EQ,01-JAN-2000,10,1,INE213A01029,10,Oil & Gas Exploration
+POWERGRID,Power Grid Corporation of India Limited,EQ,01-JAN-2000,10,1,INE752E01010,10,Power Transmission
+JSWSTEEL,JSW Steel Limited,EQ,01-JAN-2000,10,1,INE019A01038,10,Metals & Mining
+TATASTEEL,Tata Steel Limited,EQ,01-JAN-2000,10,1,INE081A01020,10,Metals & Mining
+COALINDIA,Coal India Limited,EQ,01-JAN-2000,10,1,INE522F01014,10,Mining & Energy
+ADANIENT,Adani Enterprises Limited,EQ,01-JAN-2000,10,1,INE423A01024,10,Diversified Conglomerate
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,EQ,01-JAN-2000,10,1,INE742F01042,10,Infrastructure & Ports
+ASIANPAINT,Asian Paints Limited,EQ,01-JAN-2000,10,1,INE021A01026,10,Paints & Chemicals
+BAJAJFINSV,Bajaj Finserv Limited,EQ,01-JAN-2000,10,1,INE918I01026,10,Financial Services
+BPCL,Bharat Petroleum Corporation Limited,EQ,01-JAN-2000,10,1,INE029A01011,10,Oil Refining & Marketing
+BRITANNIA,Britannia Industries Limited,EQ,01-JAN-2000,10,1,INE216A01030,10,Consumer Goods (FMCG)
+CIPLA,Cipla Limited,EQ,01-JAN-2000,10,1,INE059A01026,10,Pharmaceuticals
+DIVISLAB,Divi's Laboratories Limited,EQ,01-JAN-2000,10,1,INE361B01024,10,Pharmaceuticals & APIs
+DRREDDY,Dr. Reddy's Laboratories Limited,EQ,01-JAN-2000,10,1,INE089A01023,10,Pharmaceuticals
+EICHERMOT,Eicher Motors Limited,EQ,01-JAN-2000,10,1,INE066A01021,10,Automobiles
+GRASIM,Grasim Industries Limited,EQ,01-JAN-2000,10,1,INE047A01021,10,Diversified Materials
+HCLTECH,HCL Technologies Limited,EQ,01-JAN-2000,10,1,INE860A01027,10,IT Services & Consulting
+HEROMOTOCO,Hero MotoCorp Limited,EQ,01-JAN-2000,10,1,INE158A01026,10,Automobiles
+HINDALCO,Hindalco Industries Limited,EQ,01-JAN-2000,10,1,INE038A01020,10,Metals & Mining
+INDUSINDBK,IndusInd Bank Limited,EQ,01-JAN-2000,10,1,INE095A01012,10,Banking & Financial Services
+IOC,Indian Oil Corporation Limited,EQ,01-JAN-2000,10,1,INE242A01010,10,Oil Refining & Marketing
+NESTLEIND,Nestle India Limited,EQ,01-JAN-2000,10,1,INE239A01024,10,Consumer Goods (FMCG)
+SBILIFE,SBI Life Insurance Company Limited,EQ,01-JAN-2000,10,1,INE123W01016,10,Insurance
+SHREECEM,Shree Cement Limited,EQ,01-JAN-2000,10,1,INE070A01015,10,Materials & Cement
+TECHM,Tech Mahindra Limited,EQ,01-JAN-2000,10,1,INE669C01036,10,IT Services & Consulting
+TATACONSUM,Tata Consumer Products Limited,EQ,01-JAN-2000,10,1,INE192A01025,10,Consumer Goods (FMCG)
+TRENT,Trent Limited,EQ,01-JAN-2000,10,1,INE849A01020,10,Retail & Fashion
+BEL,Bharat Electronics Limited,EQ,01-JAN-2000,10,1,INE263A01024,10,Aerospace & Defence
+HAL,Hindustan Aeronautics Limited,EQ,01-JAN-2000,10,1,INE066F01012,10,Aerospace & Defence
+IRCTC,Indian Railway Catering and Tourism Corporation Limited,EQ,01-JAN-2000,10,1,INE335Y01020,10,Travel & Hospitality
+ZOMATO,Zomato Limited,EQ,01-JAN-2000,10,1,INE758T01015,10,Consumer Internet & Delivery
+JIOFIN,Jio Financial Services Limited,EQ,01-JAN-2000,10,1,INE758E01017,10,Financial Services
+PAYTM,One97 Communications Limited (Paytm),EQ,01-JAN-2000,10,1,INE982J01020,10,Fintech & Payments
+NYKAA,FSN E-Commerce Ventures Limited (Nykaa),EQ,01-JAN-2000,10,1,INE388Y01029,10,E-Commerce & Retail
+POLYCAB,Polycab India Limited,EQ,01-JAN-2000,10,1,INE455K01017,10,Electrical Cables & Equipment
+TATAPOWER,Tata Power Company Limited,EQ,01-JAN-2000,10,1,INE245A01021,10,Power Generation & Utilities
+VEDL,Vedanta Limited,EQ,01-JAN-2000,10,1,INE205A01025,10,Metals & Natural Resources
+DLF,DLF Limited,EQ,01-JAN-2000,10,1,INE271C01023,10,Real Estate Development
+GAIL,GAIL (India) Limited,EQ,01-JAN-2000,10,1,INE129A01019,10,Natural Gas Transmission
+VBL,Varun Beverages Limited,EQ,01-JAN-2000,10,1,INE200M01021,10,Beverages & FMCG
+INDIGO,InterGlobe Aviation Limited (IndiGo),EQ,01-JAN-2000,10,1,INE646L01027,10,Aviation & Airlines
+PIDILITIND,Pidilite Industries Limited,EQ,01-JAN-2000,10,1,INE318A01026,10,Specialty Chemicals & Adhesives
+SIEMENS,Siemens Limited,EQ,01-JAN-2000,10,1,INE003A01024,10,Industrial Engineering
+BHEL,Bharat Heavy Electricals Limited,EQ,01-JAN-2000,10,1,INE257A01026,10,Heavy Electrical Equipment
+PFC,Power Finance Corporation Limited,EQ,01-JAN-2000,10,1,INE134E01011,10,Financial Institutions
+RECLTD,REC Limited,EQ,01-JAN-2000,10,1,INE020B01018,10,Financial Institutions
+RVNL,Rail Vikas Nigam Limited,EQ,01-JAN-2000,10,1,INE415G01027,10,Railway Infrastructure

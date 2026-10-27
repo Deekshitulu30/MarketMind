@@ -1,0 +1,43 @@
+SYMBOL,NAME OF COMPANY,EXCHANGE,SECTOR,CURRENCY
+AAPL,Apple Inc.,NASDAQ,Technology,USD
+MSFT,Microsoft Corporation,NASDAQ,Technology,USD
+NVDA,NVIDIA Corporation,NASDAQ,Semiconductors & Technology,USD
+GOOGL,Alphabet Inc. (Class A),NASDAQ,Communication Services,USD
+AMZN,Amazon.com Inc.,NASDAQ,Consumer Cyclical & Cloud,USD
+META,Meta Platforms Inc.,NASDAQ,Communication Services,USD
+TSLA,Tesla Inc.,NASDAQ,Automotive & Clean Energy,USD
+SPY,SPDR S&P 500 ETF Trust,NYSE,Index ETF,USD
+QQQ,Invesco QQQ Trust,NASDAQ,Index ETF,USD
+BRK-B,Berkshire Hathaway Inc.,NYSE,Financial Conglomerate,USD
+JPM,JPMorgan Chase & Co.,NYSE,Financial Services,USD
+V,Visa Inc.,NYSE,Payment Processing,USD
+WMT,Walmart Inc.,NYSE,Consumer Defensive & Retail,USD
+MA,Mastercard Incorporated,NYSE,Payment Processing,USD
+PG,The Procter & Gamble Company,NYSE,Consumer Goods,USD
+JNJ,Johnson & Johnson,NYSE,Healthcare & Pharmaceuticals,USD
+UNH,UnitedHealth Group Incorporated,NYSE,Managed Healthcare,USD
+HD,The Home Depot Inc.,NYSE,Home Improvement Retail,USD
+DIS,The Walt Disney Company,NYSE,Entertainment & Media,USD
+NFLX,Netflix Inc.,NASDAQ,Streaming & Media,USD
+AMD,Advanced Micro Devices Inc.,NASDAQ,Semiconductors,USD
+INTC,Intel Corporation,NASDAQ,Semiconductors,USD
+CRM,Salesforce Inc.,NYSE,Enterprise Software & Cloud,USD
+ADBE,Adobe Inc.,NASDAQ,Software & Creative Cloud,USD
+PYPL,PayPal Holdings Inc.,NASDAQ,Digital Payments,USD
+COST,Costco Wholesale Corporation,NASDAQ,Consumer Defensive,USD
+PEP,PepsiCo Inc.,NASDAQ,Consumer Staples,USD
+KO,The Coca-Cola Company,NYSE,Consumer Staples,USD
+XOM,Exxon Mobil Corporation,NYSE,Energy & Oil,USD
+CVX,Chevron Corporation,NYSE,Energy & Oil,USD
+NKE,NIKE Inc.,NYSE,Apparel & Footwear,USD
+LLY,Eli Lilly and Company,NYSE,Pharmaceuticals,USD
+AVGO,Broadcom Inc.,NASDAQ,Semiconductors,USD
+ORCL,Oracle Corporation,NYSE,Database & Cloud Software,USD
+BAC,Bank of America Corporation,NYSE,Banking & Financial Services,USD
+CSCO,Cisco Systems Inc.,NASDAQ,Networking Hardware,USD
+ACN,Accenture plc,NYSE,IT Consulting & Services,USD
+MRK,Merck & Co. Inc.,NYSE,Pharmaceuticals,USD
+TMO,Thermo Fisher Scientific Inc.,NYSE,Life Sciences Tools,USD
+ABT,Abbott Laboratories,NYSE,Medical Devices & Healthcare,USD
+QCOM,Qualcomm Incorporated,NASDAQ,Wireless Telecom & Chips,USD
+TXN,Texas Instruments Incorporated,NASDAQ,Semiconductors,USD

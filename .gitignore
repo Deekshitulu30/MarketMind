@@ -1,0 +1,112 @@
+# ==============================================================================
+# MarketMind Git Ignore Rules
+# ==============================================================================
+
+# --- Python ---
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+**/dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# --- Virtual Environments ---
+venv/
+**/venv/
+.venv/
+**/.venv/
+ENV/
+env/
+
+# --- Node / Frontend ---
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist-ssr/
+*.local
+.vite/
+vite.config.ts.timestamp-*
+
+# --- Large Datasets & Stock / ETF CSV Data ---
+stocks/
+etfs/
+*.csv
+!backend/tests/fixtures/*.csv
+!data/symbol_master/*.csv
+data/raw/
+data/*.csv
+stock_market_data_large.csv
+stock_market_financial_trends.csv
+stock_prices_daily.csv
+symbols_valid_meta.csv
+
+# --- Database & Persistent Storage ---
+*.sqlite
+*.sqlite3
+*.db
+data/*.db
+data/marketmind.db
+backend/*.db
+backend/marketmind.db
+
+# --- Trained Machine Learning Model Artifacts ---
+*.joblib
+*.pkl
+models/*.joblib
+models/*.pkl
+models/artifacts/*.joblib
+models/artifacts/*.pkl
+!models/artifacts/.gitkeep
+backend/models/artifacts/*.joblib
+backend/models/artifacts/*.pkl
+
+# --- Unwanted Binary, Reports & Dump Files ---
+*.docx
+*.pdf
+template_dump.txt
+empty.md
+*.tmp
+*.log
+backend/logs/
+
+# --- Environment Variables & Secrets ---
+.env
+*.env
+!.env.example
+
+# --- IDE & Editors ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini
